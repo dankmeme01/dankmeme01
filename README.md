@@ -5,7 +5,7 @@ I am a programmer originating from Ukraine, my main hobbies are reversing and mo
 I have experience with (and like doing):
 * High-level networking (HTTP servers, websockets applications, network admin stuff)
 * Low-level networking (raw TCP/UDP sockets, binary serialization, NAT traversal)
-* Async programming (in Rust and C++
+* Async/concurrent programming (in Rust and C++)
 * Optimization and profiling, always trying to write very fast code and optimizing code of others
 * Low-level computer architecture (writing assembly/SIMD code, reverse-engineering and debugging applications)
 * Cryptography and security (big fan of jwt-like tokens, blake3 and XChaCha20Poly1305, many of my network projects incorporate end-to-end encryption :) )
