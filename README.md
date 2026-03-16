@@ -16,8 +16,9 @@ You most likely know me as the creator of **[Globed](https://github.com/GlobedGD
 Some other notable projects I've made:
 * [Argon](https://github.com/GlobedGD/argon) - a modern authentication API for Geometry Dash accounts, used by many mods
 * [Arc](https://github.com/dankmeme01/arc) - a C++23 async runtime, similar to [Tokio](https://tokio.rs/); used by Geode, Globed and more!
-* [Blaze](https://github.com/dankmeme01/blaze) - a WIP Geometry Dash optimization mod. Currently mostly optimizes game loading & saving, which in the future will expand to more
 * [qsox](https://github.com/dankmeme01/qsox) - a cross-platform C++ abstraction for sockets, with API similar to Rust's `std::net` module
+* [wsx](https://github.com/dankmeme01/wsx) - a C++ WebSockets library with sync/async API and simple yet very configurable TLS design
+* [Blaze](https://github.com/dankmeme01/blaze) - a WIP Geometry Dash optimization mod. Currently mostly optimizes game loading & saving, which in the future will expand to more
 * Qunet ([cpp](https://github.com/dankmeme01/qunet-cpp), [rust](https://github.com/dankmeme01/qunet)) - an advanced network library used by Globed, that aims to abstract away intricacies of various platforms, IPv4 vs IPv6, TCP vs UDP, compression, etc. and make it easy to write robust network clients and servers (primarily made for games).
 
 If you want to contact me, the best place is on Discord (@dank_meme01). I don't actively use any other social media.
